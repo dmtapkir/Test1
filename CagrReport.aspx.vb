@@ -31,7 +31,6 @@ Partial Class Pages_Market1_CAGR_CagrReport
         End Set
     End Property
     'n
-    'n
 
     Public Property ErrorLable() As Label
         Get
